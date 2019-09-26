@@ -10,6 +10,7 @@ xingxingtan 的个人博客
 
 ### 最新
 
+* [敏捷交付平台技术规划](http://star.nat200.top/articles/2019/09/26/1569462275804.html)
 * [使用GitLabApi获取远程仓库中的文件内容](http://star.nat200.top/articles/2019/09/25/1569385978467.html)
 * [2019版本IDEA破解教程](http://star.nat200.top/articles/2019/09/25/1569374816384.html)
 
