@@ -10,6 +10,9 @@ xingxingtan 的个人博客
 
 ### 最新
 
+* [CentOS 7 下 GitLab安装部署教程](http://star.nat200.top/articles/2019/09/29/1569752379012.html)
+* [gitlab权限](http://star.nat200.top/articles/2019/09/29/1569731002017.html)
+* [关于git与gitlab](http://star.nat200.top/articles/2019/09/29/1569727069964.html)
 * [vue开源组件项目](http://star.nat200.top/articles/2019/09/27/1569556482700.html)
 * [crontab定时器入门](http://star.nat200.top/articles/2019/09/27/1569554604475.html)
 * [natapp配置管理](http://star.nat200.top/articles/2019/09/26/1569500658682.html)
