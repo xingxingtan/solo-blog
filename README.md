@@ -10,6 +10,8 @@ xingxingtan 的个人博客
 
 ### 最新
 
+* [Linux常用指令](http://star.nat200.top/articles/2019/10/08/1570506874527.html)
+* [gitlab使用手册](http://star.nat200.top/articles/2019/10/08/1570498626897.html)
 * [我在 GitHub 上的开源项目](http://star.nat200.top/my-github-repos)
 * [eclipse中使用gitlab手册](http://star.nat200.top/articles/2019/09/30/1569809395055.html)
 * [CentOS 7 下 GitLab安装部署教程](http://star.nat200.top/articles/2019/09/29/1569752379012.html)
