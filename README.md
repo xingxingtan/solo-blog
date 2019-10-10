@@ -10,6 +10,8 @@ xingxingtan 的个人博客
 
 ### 最新
 
+* [vue2.0 如何自定义组件（vue组件的封装）](http://star.nat200.top/articles/2019/10/10/1570701624405.html)
+* [git团队开发一般步骤流程](http://star.nat200.top/articles/2019/10/10/1570694076090.html)
 * [Linux常用指令](http://star.nat200.top/articles/2019/10/08/1570506874527.html)
 * [gitlab使用手册](http://star.nat200.top/articles/2019/10/08/1570498626897.html)
 * [我在 GitHub 上的开源项目](http://star.nat200.top/my-github-repos)
