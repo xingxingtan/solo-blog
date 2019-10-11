@@ -10,6 +10,8 @@ xingxingtan 的个人博客
 
 ### 最新
 
+* [如何在 GitLab 上创建代码仓库](http://star.nat200.top/articles/2019/10/11/1570778048726.html)
+* [GitLab 的账户管理](http://star.nat200.top/articles/2019/10/11/1570777292662.html)
 * [vue2.0 如何自定义组件（vue组件的封装）](http://star.nat200.top/articles/2019/10/10/1570701624405.html)
 * [git团队开发一般步骤流程](http://star.nat200.top/articles/2019/10/10/1570694076090.html)
 * [Linux常用指令](http://star.nat200.top/articles/2019/10/08/1570506874527.html)
